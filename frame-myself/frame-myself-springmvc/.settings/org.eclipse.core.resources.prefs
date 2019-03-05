@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF- 8
+encoding//src/main/java/com/frame/annotation/MyController.java=UTF-8
+encoding//src/main/java/com/frame/annotation/MyRequestMapping.java=UTF-8
+encoding//src/main/java/com/frame/annotation/MyRequestParam.java=UTF-8
+encoding//src/main/java/com/frame/core/controller/TestController.java=UTF-8
+encoding//src/main/java/com/frame/servlet/MyDispatcherServlet.java=UTF-8
+encoding//src/main/resources=UTF- 8
+encoding//src/main/resources/application.properties=UTF-8
+encoding//src/test/java=UTF- 8
+encoding//src/test/resources=UTF- 8
+encoding/<project>=UTF- 8
