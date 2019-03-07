@@ -10,5 +10,6 @@
   	<module>frame-myself-rpc-api</module>
   	<module>frame-myself-rpc-service</module>
   	<module>frame-myself-rpc-web</module>
+  	<module>frame-myself-tomcat</module>
   </modules>
 </project>
